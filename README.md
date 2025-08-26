@@ -44,9 +44,11 @@ Data Source: HR dataset (Employee records with demographics, salary, and attriti
 
 - <a href="https://github.com/ybovas/HR-Analytic-Dashboard/blob/main/HR_Analytics_Dashboard.pbix">Dashboard.pbix</a>
 
-<img width="880" height="495" alt="Snapshot-Overview" src="https://github.com/user-attachments/assets/d3eeacfd-e7e0-4f78-aa5f-338d2f3edf39" />
+<img width="886" height="497" alt="image" src="https://github.com/user-attachments/assets/a787d754-b60a-4195-86a8-c14ec3f44fb2" />
+
 
 <img width="881" height="495" alt="Screenshot-Attrition" src="https://github.com/user-attachments/assets/76a83dc6-b51b-4e3a-b129-f7ef732e505c" />
+
 
 <img width="887" height="498" alt="Screenshot -Employee Details" src="https://github.com/user-attachments/assets/b2651711-be1e-4150-8984-a0bf12f294cf" />
 
