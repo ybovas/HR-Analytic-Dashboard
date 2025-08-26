@@ -23,8 +23,10 @@ It helps **HR teams and management** make **data-driven decisions** related to *
 - Employee count by **Department, Race, and Age Band**  
 - Key workforce metrics (**Total Employees, Avg Salary, Attrition Rate**)  
 
-📸 **Preview:** *
-<img width="886" height="497" alt="image" src="https://github.com/user-attachments/assets/a787d754-b60a-4195-86a8-c14ec3f44fb2" />)
+📸 **Preview:**
+
+
+<img width="886" height="497" alt="image" src="https://github.com/user-attachments/assets/a787d754-b60a-4195-86a8-c14ec3f44fb2" />
 
 ---
 
@@ -34,8 +36,10 @@ It helps **HR teams and management** make **data-driven decisions** related to *
 - **Reasons for Termination** – Another position, Career change, Performance, Retirement, etc.  
 - Key employee status metrics (**Active vs Terminated Employees**)  
 
-📸 **Preview:** 
-<img width="881" height="495" alt="Screenshot-Attrition" src="https://github.com/user-attachments/assets/76a83dc6-b51b-4e3a-b129-f7ef732e505c" />)
+📸 **Preview:**
+
+
+<img width="881" height="495" alt="Screenshot-Attrition" src="https://github.com/user-attachments/assets/76a83dc6-b51b-4e3a-b129-f7ef732e505c" />
 
 ---
 
