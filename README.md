@@ -42,7 +42,7 @@ Data Source: HR dataset (Employee records with demographics, salary, and attriti
 
 ## Dashboard ##
 
-- <a href="https://www.kaggle.com/datasets/tahir1413/global-superstore-2016">Dataset</a>
+- <a href="https://github.com/ybovas/HR-Analytic-Dashboard/blob/main/HR_Analytics_Dashboard.pbix">Dashboard.pbix</a>
 
 <img width="880" height="495" alt="Snapshot-Overview" src="https://github.com/user-attachments/assets/d3eeacfd-e7e0-4f78-aa5f-338d2f3edf39" />
 
